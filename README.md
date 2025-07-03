@@ -1,4 +1,8 @@
 # Webcollection
 网站收集
-影视：
-https://www.gying.net/
+# 整合：
+摸鱼工具: https://moyugongju.com/
+# 影视：
+影视下载：https://www.gying.net/
+# 游戏：
+Switch1： https://www.laoquzhang.com/
