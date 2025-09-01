@@ -9,7 +9,7 @@
 影视下载：https://www.gying.net/<p>
 冰冰字幕组（英剧）：https://icezmz.com/<p>
 # 游戏：
-Switch1：https://www.laoquzhang.com/<p>
+Switch1：https://www.laoquzhang.com/ https://sway.cloud.microsoft/u2EUFKqRndqnaDGU?ref=Link<p>
 galgame：https://www.mmgal.com/<p>
 风灵月影：https://flingtrainer.com/<p>
 SteamDB：https://steamdb.info/<p>
