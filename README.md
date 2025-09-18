@@ -22,6 +22,7 @@ PC游戏下载：https://www.skidrowreloaded.com/<p>
 漫画：https://vol.moe/<p>
 # 音乐：
 Jamendo music：https://www.jamendo.com/start/<p>
+力音：https://www.livepoo.cn/<p>
 # 工具：
 果核剥壳：https://www.ghxi.com/<p>
 DBI汉化（时鹏亮Blog）：https://shipengliang.com/<p>
