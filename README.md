@@ -26,3 +26,4 @@ Jamendo music：https://www.jamendo.com/start/<p>
 # 工具：
 果核剥壳：https://www.ghxi.com/<p>
 DBI汉化（时鹏亮Blog）：https://shipengliang.com/<p>
+女优百科：https://www.dramaface.com/<p>
