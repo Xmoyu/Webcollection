@@ -26,6 +26,7 @@ Jamendo music：https://www.jamendo.com/start/<p>
 力音：https://www.livepoo.cn/<p>
 # 工具：
 果核剥壳：https://www.ghxi.com/<p>
+工具软件（大眼仔）：https://www.dayanzai.me/<p>
 DBI汉化（时鹏亮Blog）：https://shipengliang.com/<p>
 女优百科：https://www.dramaface.com/<p>
 ACG百科：https://zh.moegirl.org.cn/<p>
