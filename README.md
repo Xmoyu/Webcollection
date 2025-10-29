@@ -17,7 +17,7 @@ Steamcommunity 302：https://www.dogfight360.com/blog/<p>
 游戏地图：https://www.vgmaps.com/<p>
 PC游戏下载：https://www.skidrowreloaded.com/<p>
 模拟器下载：https://www.emucr.com/<p>
-#模拟器：
+# 模拟器：
 Retroarch全能模拟器：https://www.retroarch.com/<p>
 Retroarch说明书：https://docs.libretro.com/<p>
 游戏列表编辑器：https://www.marcrobledo.com/retroarch-playlist-editor/<p>
