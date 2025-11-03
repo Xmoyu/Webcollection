@@ -27,6 +27,7 @@ Retroarch说明书：https://docs.libretro.com/<p>
 # 电子书：
 爱悦读：https://www.iyd.wang/<p>
 漫画：https://vol.moe/<p>
+SaltyLeo 的书架：https://tstrs.me/<p>
 十一导航：https://dh.olib.online/<p>
 # 音乐：
 Jamendo music：https://www.jamendo.com/start/<p>
