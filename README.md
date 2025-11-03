@@ -16,8 +16,10 @@ SteamDB：https://steamdb.info/<p>
 Steamcommunity 302：https://www.dogfight360.com/blog/<p>
 游戏地图：https://www.vgmaps.com/<p>
 PC游戏下载：https://www.skidrowreloaded.com/<p>
+游戏杂志PFD：https://pan.quark.cn/s/51ab4dd4c269#/list/share<p>
+游戏相关汇总：https://www.kdocs.cn/l/cuq4qQYaj6Ah/<p>
 # 模拟器：
-掌机迷：https://www.gbarom.cn/<p>
+掌机迷（游戏库）：https://www.gbarom.cn/<p>
 模拟器下载：https://www.emucr.com/<p>
 Retroarch全能模拟器：https://www.retroarch.com/<p>
 Retroarch说明书：https://docs.libretro.com/<p>
