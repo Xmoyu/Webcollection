@@ -16,7 +16,6 @@ SteamDB：https://steamdb.info/<p>
 Steamcommunity 302：https://www.dogfight360.com/blog/<p>
 游戏地图：https://www.vgmaps.com/<p>
 PC游戏下载：https://www.skidrowreloaded.com/<p>
-游戏杂志PFD：https://pan.quark.cn/s/51ab4dd4c269#/list/share<p>
 游戏相关汇总：https://www.kdocs.cn/l/cuq4qQYaj6Ah/<p>
 # 模拟器：
 掌机迷（游戏库）：https://www.gbarom.cn/<p>
@@ -38,6 +37,11 @@ Jamendo music：https://www.jamendo.com/start/<p>
 DBI汉化（时鹏亮Blog）：https://shipengliang.com/<p>
 女优百科：https://www.dramaface.com/<p>
 ACG百科：https://zh.moegirl.org.cn/<p>
+# 收集资源：
+1、小说、漫画、游戏杂志：https://pan.baidu.com/s/1fn0GPIIlDji5jtEcKlvz6g?pwd=6666/<p>
+2、游戏机实用技术目录（1-532期）https://pan.baidu.com/s/1tSbBnlVvDrXyP6mw-cLbIQ?pwd=uqyv/<p>
+3、游戏杂志PFD：https://pan.quark.cn/s/51ab4dd4c269/<p>
+4、掌机杂志PDF：https://pan.quark.cn/s/fa29d298094b/<p>
 # 公路行业规范：
 交通运输部：https://xxgk.mot.gov.cn/2020/jigou/<p>
 交通运输标准化信息系统：https://jtst.mot.gov.cn/<p>
