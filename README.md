@@ -23,7 +23,7 @@ PC游戏下载：https://www.skidrowreloaded.com/<p>
 模拟器下载：https://www.emucr.com/<p>
 Retroarch全能模拟器：https://www.retroarch.com/<p>
 Retroarch说明书：https://docs.libretro.com/<p>
-游戏列表编辑器：https://www.marcrobledo.com/retroarch-playlist-editor/<p>
+游戏列表编辑器（网页）：https://www.marcrobledo.com/retroarch-playlist-editor 软件：https://github.com/xxin83/RetroArch-Playlist-Generator<p>
 # 电子书：
 爱悦读：https://www.iyd.wang/<p>
 漫画：https://vol.moe/<p>
