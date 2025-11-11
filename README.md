@@ -4,7 +4,8 @@
 摸鱼工具: https://moyugongju.com/<p>
 阿虚同学：https://axutongxue.com/<p>
 探索TV：https://tansuo.tv/<p>
-驸马导航：https://loveps4.com/
+驸马导航：https://loveps4.com/<p>
+刘明野工具箱：https://tools.liumingye.cn/<p>
 # 影视：
 影视下载：https://www.gying.net/<p>
 冰冰字幕组（英剧）：https://icezmz.com/<p>
