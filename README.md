@@ -18,7 +18,7 @@ Steamcommunity 302：https://www.dogfight360.com/blog/<p>
 游戏地图：https://www.vgmaps.com/<p>
 PC游戏下载：https://www.skidrowreloaded.com/<p>
 游戏相关汇总：https://www.kdocs.cn/l/cuq4qQYaj6Ah/<p>
-围炉go汉化信息：https://www.wlgooo.com/category/%E6%96%B0%E6%B1%89%E5%8C%96<p>
+围炉go汉化信息：https://www.wlgooo.com/category/新汉化<p>
 # 模拟器：
 掌机迷（游戏库）：https://www.gbarom.cn/<p>
 模拟器下载：https://www.emucr.com/<p>
