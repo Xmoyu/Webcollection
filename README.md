@@ -41,7 +41,7 @@ DBI汉化（时鹏亮Blog）：https://shipengliang.com/<p>
 ACG百科：https://zh.moegirl.org.cn/<p>
 # 收集资源：
 1、小说、漫画、游戏杂志：https://pan.baidu.com/s/1fn0GPIIlDji5jtEcKlvz6g?pwd=6666<p>
-2、游戏机实用技术目录（1-532期）https://pan.baidu.com/s/1tSbBnlVvDrXyP6mw-cLbIQ?pwd=uqyv<p>
+2、游戏机实用技术目录：（1）https://pan.baidu.com/s/1tSbBnlVvDrXyP6mw-cLbIQ?pwd=uqyv （2）https://pan.baidu.com/s/16JdwemMNC8Ip1UXrVqbiCw?pwd=2p29<p>
 3、游戏杂志PFD：https://pan.quark.cn/s/51ab4dd4c269#/list/share<p>
 4、掌机杂志PDF：（1）https://pan.quark.cn/s/fa29d298094b#/list/share （2）https://pan.baidu.com/s/1J5tZiTOx0x9ekTa4G-nCfw?pwd=6666<p>
 # 公路行业规范：
