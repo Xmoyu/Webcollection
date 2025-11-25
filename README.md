@@ -10,21 +10,21 @@
 影视下载：https://www.gying.net/<p>
 冰冰字幕组（英剧）：https://icezmz.com/<p>
 # 游戏：
-Switch1：https://www.laoquzhang.com/  https://sway.cloud.microsoft/u2EUFKqRndqnaDGU?ref=Link  https://nsyxck.flowus.cn/<p>
+Switch1：（1）https://www.laoquzhang.com （2）https://sway.cloud.microsoft/u2EUFKqRndqnaDGU?ref=Link （3）https://nsyxck.flowus.cn<p>
 galgame：https://www.mmgal.com/<p>
 风灵月影：https://flingtrainer.com/<p>
 SteamDB：https://steamdb.info/<p>
 Steamcommunity 302：https://www.dogfight360.com/blog/<p>
 游戏地图：https://www.vgmaps.com/<p>
 PC游戏下载：https://www.skidrowreloaded.com/<p>
-游戏相关汇总：（1）https://www.kdocs.cn/l/cuq4qQYaj6Ah （2）https://link3.cc/dycstc <p>
+游戏相关汇总：（1）https://www.kdocs.cn/l/cuq4qQYaj6Ah （2）https://link3.cc/dycstc<p>
 围炉go汉化信息：https://www.wlgooo.com/category/新汉化<p>
 # 模拟器：
 掌机迷（游戏库）：https://www.gbarom.cn/<p>
 模拟器下载：https://www.emucr.com/<p>
 Retroarch全能模拟器：https://www.retroarch.com/<p>
 Retroarch说明书：https://docs.libretro.com/<p>
-游戏列表编辑器（网页）：https://www.marcrobledo.com/retroarch-playlist-editor 软件：https://github.com/xxin83/RetroArch-Playlist-Generator<p>
+游戏列表编辑器：（1）网页https://www.marcrobledo.com/retroarch-playlist-editor （2）软件https://github.com/xxin83/RetroArch-Playlist-Generator<p>
 # 电子书：
 爱悦读：https://www.iyd.wang/<p>
 漫画：https://vol.moe/<p>
@@ -43,7 +43,7 @@ ACG百科：https://zh.moegirl.org.cn/<p>
 1、小说、漫画、游戏杂志：https://pan.baidu.com/s/1fn0GPIIlDji5jtEcKlvz6g?pwd=6666<p>
 2、游戏机实用技术目录（1-532期）https://pan.baidu.com/s/1tSbBnlVvDrXyP6mw-cLbIQ?pwd=uqyv<p>
 3、游戏杂志PFD：https://pan.quark.cn/s/51ab4dd4c269#/list/share<p>
-4、掌机杂志PDF：https://pan.quark.cn/s/fa29d298094b#/list/share https://pan.baidu.com/s/1J5tZiTOx0x9ekTa4G-nCfw?pwd=6666<p>
+4、掌机杂志PDF：（1）https://pan.quark.cn/s/fa29d298094b#/list/share （2）https://pan.baidu.com/s/1J5tZiTOx0x9ekTa4G-nCfw?pwd=6666<p>
 # 公路行业规范：
 交通运输部：https://xxgk.mot.gov.cn/2020/jigou/<p>
 交通运输标准化信息系统：https://jtst.mot.gov.cn/<p>
