@@ -15,7 +15,7 @@ galgame：https://www.mmgal.com/<p>
 风灵月影：https://flingtrainer.com/<p>
 SteamDB：https://steamdb.info/<p>
 Steamcommunity 302：https://www.dogfight360.com/blog/<p>
-游戏地图：https://www.vgmaps.com/<p>
+游戏地图：https://www.vgmaps.com/ https://xueqiumaps.cn/<p>
 PC游戏下载：https://www.skidrowreloaded.com/<p>
 游戏相关汇总：（1）https://www.kdocs.cn/l/cuq4qQYaj6Ah （2）https://link3.cc/dycstc<p>
 围炉go汉化信息：https://www.wlgooo.com/category/新汉化<p>
