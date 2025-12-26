@@ -13,7 +13,7 @@
 冰冰字幕组（英剧）：https://icezmz.com/<p>
 # 游戏：
 Switch1：（1）https://www.laoquzhang.com （2）https://sway.cloud.microsoft/u2EUFKqRndqnaDGU?ref=Link （3）https://nsyxck.flowus.cn<p>
-galgame：https://www.mmgal.com/<p>
+galgame：（1）https://www.mmgal.com/ （2）https://mumugal.com/<p>
 风灵月影：https://flingtrainer.com/<p>
 SteamDB：https://steamdb.info/<p>
 Steamcommunity 302：https://www.dogfight360.com/blog/<p>
