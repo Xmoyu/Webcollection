@@ -6,6 +6,8 @@
 探索TV：https://tansuo.tv/<p>
 驸马导航：https://loveps4.com/<p>
 刘明野工具箱：https://tools.liumingye.cn/<p>
+知云阁：https://dh.zhiyunge.cn/<p>
+花猫导航：https://huamaodh.com/<p>
 # 影视：
 影视下载：https://www.gying.net/<p>
 冰冰字幕组（英剧）：https://icezmz.com/<p>
