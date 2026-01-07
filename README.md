@@ -56,3 +56,4 @@ ACG百科：https://zh.moegirl.org.cn/<p>
 # 公路行业规范：
 交通运输部：https://xxgk.mot.gov.cn/2020/jigou/<p>
 交通运输标准化信息系统：https://jtst.mot.gov.cn/<p>
+国家标准全文公开系统：https://openstd.samr.gov.cn/<p>
