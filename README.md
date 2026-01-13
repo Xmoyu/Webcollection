@@ -31,7 +31,7 @@ Retroarch说明书：https://docs.libretro.com/<p>
 （2）软件https://github.com/xxin83/RetroArch-Playlist-Generator<p>
 # 电子书：
 爱悦读：https://www.iyd.wang/<p>
-漫画：https://koz.moe/<p>
+漫画：https://mox.moe/ https://kox.moe/<p>
 SaltyLeo 的书架：https://tstrs.me/<p>
 十一导航：https://dh.olib.online/<p>
 Z-Library：http://fuckfbi.ru/
