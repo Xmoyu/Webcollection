@@ -35,9 +35,10 @@ Retroarch说明书：https://docs.libretro.com/<p>
 漫画：https://mox.moe/ https://kox.moe/<p>
 SaltyLeo 的书架：https://tstrs.me/<p>
 十一导航：https://dh.olib.online/<p>
-Z-Library：http://fuckfbi.ru/ https://zlibrary.sodanav.com/<p>
+Z-Library：http://fuckfbi.ru/ https://zlibrary.sodanav.com/ https://zh.ztianjing.ru<p>
 读书派：https://www.dushupai.com/<p>
 kindle越狱：https://kindlemodding.org/<p>
+Send to kindle网页：https://www.amazon.com/sendtokindle/<p>
 # 音乐：
 Jamendo music：https://www.jamendo.com/start/<p>
 力音：https://www.livepoo.cn/<p>
