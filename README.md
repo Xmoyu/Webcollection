@@ -48,6 +48,7 @@ Jamendo music：https://www.jamendo.com/start/<p>
 DBI汉化（时鹏亮Blog）：https://shipengliang.com/<p>
 女优百科：https://www.dramaface.com/<p>
 ACG百科：https://zh.moegirl.org.cn/<p>
+影视仓app：https://pan.quark.cn/s/61d324167c07#/list/share 多仓接口公众号：装歌APP
 # 收集资源：
 1、小说、漫画、游戏杂志：https://pan.baidu.com/s/1fn0GPIIlDji5jtEcKlvz6g?pwd=6666<p>
 2、游戏机实用技术：<p>
