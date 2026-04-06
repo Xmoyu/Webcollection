@@ -9,7 +9,7 @@
 知云阁：https://dh.zhiyunge.cn/<p>
 花猫导航：https://huamaodh.com/<p>
 # 影视：
-影视下载：https://www.gying.net/<p>
+影视下载：https://www.gying.net/ https://www.xn--ykq321c.com/<p>
 冰冰字幕组（英剧）：https://icezmz.com/<p>
 # 游戏：
 Switch1：（1）https://www.laoquzhang.com （2）https://sway.cloud.microsoft/u2EUFKqRndqnaDGU?ref=Link （3）https://nsyxck.flowus.cn<p>
