@@ -12,7 +12,7 @@
 影视下载：https://www.gying.net/ https://www.xn--ykq321c.com/<p>
 冰冰字幕组（英剧）：https://icezmz.com/<p>
 # 游戏：
-Switch1：（1）https://www.laoquzhang.com （2）https://sway.cloud.microsoft/u2EUFKqRndqnaDGU?ref=Link （3）https://nsyxck.flowus.cn<p> （4）https://pan.xunlei.com/s/VOpFzxruB2DV9IqL79oDxaSEA1?pwd=dk4v<p>
+Switch1：（1）https://www.laoquzhang.com （2）https://sway.cloud.microsoft/u2EUFKqRndqnaDGU?ref=Link （3）https://nsyxck.flowus.cn<p> （4）https://www.nsysyx.com/（5）https://pan.xunlei.com/s/VOpFzxruB2DV9IqL79oDxaSEA1?pwd=dk4v<p> 
 galgame：（1）https://www.mmgal.com/ （2）https://mumugal.com/<p>
 风灵月影：https://flingtrainer.com/<p>
 SteamDB：https://steamdb.info/<p>
