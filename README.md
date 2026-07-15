@@ -39,6 +39,8 @@ Z-Library：http://fuckfbi.ru/ https://zlibrary.sodanav.com/ https://zh.ztianjin
 读书派：https://www.dushupai.com/<p>
 kindle越狱：https://kindlemodding.org/<p>
 Send to kindle网页：https://www.amazon.com/sendtokindle/<p>
+合集：（1）https://www.xiaolipan.com  （1）https://liber3.eth.limo （3）https://bks.thefuture.top<p> 
+（4）https://manybooks.net （5）https://www.epubbooks.com/ （6）https://sobooks.cc/
 # 音乐：
 Jamendo music：https://www.jamendo.com/start/<p>
 力音：https://www.livepoo.cn/<p>
