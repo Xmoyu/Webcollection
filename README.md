@@ -60,6 +60,7 @@ ACG百科：https://zh.moegirl.org.cn/<p>
 （4）下载 https://pan.baidu.com/s/16JdwemMNC8Ip1UXrVqbiCw?pwd=2p29<p>
 3、游戏杂志PFD：https://pan.quark.cn/s/51ab4dd4c269#/list/share<p>
 4、掌机杂志PDF：（1）https://pan.quark.cn/s/fa29d298094b#/list/share （2）https://pan.baidu.com/s/1J5tZiTOx0x9ekTa4G-nCfw?pwd=6666<p>
+5、电子书、游戏、音乐、软件：https://www.kdocs.cn/l/cljzi6qLQNXW<p>
 # 公路行业规范：
 交通运输部：https://xxgk.mot.gov.cn/2020/jigou/<p>
 交通运输标准化信息系统：https://jtst.mot.gov.cn/<p>
